@@ -1,0 +1,54 @@
+button{
+    border-radius: 34px;
+    height: 50px;
+    width: 200px;
+    
+}
+
+
+body{
+
+    text-align: center;
+    /* margin-top: 250px; */
+    background-image:linear-gradient(to right,rgb(154, 188, 243),rgb(66, 8, 95))
+}
+
+
+.copyCode{
+    background-color: rgba(240, 248, 255, 0.338);
+    border-radius: 10px;
+    width:405px;
+    margin: auto;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-size: medium;
+}
+
+header{
+   text-align: left;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(0, 0, 0, 0.624);
+    font-weight: 600;
+    border-bottom: 4px double rgb(255, 253, 253);
+    margin-bottom: 300px;
+    border-radius: 20px;
+   
+
+}
+
+#myButton{
+    color: white;
+    background-color: rgb(25, 9, 134);
+}
+
+
+
+#myButton2{
+    color: black;
+    background-color: rgb(167, 219, 69);
+}
