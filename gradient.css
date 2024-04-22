@@ -30,11 +30,12 @@ h2{
 
 header{
    text-align: left;
-    font-size: 40px;
+    font-size: 50px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgba(0, 0, 0, 0.624);
     font-weight: 600;
-    border-bottom: 4px double rgb(255, 253, 253);
+    border-bottom: 10px double rgb(255, 253, 253);
+    border-top: 10px double rgb(255, 253, 253);
     margin-bottom: 300px;
     border-radius: 20px;
    
